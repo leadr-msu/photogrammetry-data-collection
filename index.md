@@ -23,11 +23,11 @@ Created by Jack Biggs
 ## Collecting the data (taking the photos)
 Photos used in photogrammetry must be taken in a specific way and must meet a certain set of criteria:
 
-**The number of photos** – there is no set number of photos required to create an accurate 3D model
+### The number of photos – there is no set number of photos required to create an accurate 3D model
 * The number of photos will change depending on the size, shape, scale, and type of object you’ll be shooting
   * More than required is better than not enough – you can always disable or not use some images in the model-making process 
 
-**Camera positioning and framing the object** – not all models will be of isolated objects, but can be of entire buildings, facades, or interior spaces (solitary objects are the focus for this series)
+### Camera positioning and framing the object – not all models will be of isolated objects, but can be of entire buildings, facades, or interior spaces (solitary objects are the focus for this series)
 * This ties back in to the number of photos – having a portion of the object in only one image does not mean that it will get built into the model
   * Multiple shots of the object from multiple angles will increase the likelihood of getting a better model
   * When in doubt, take more photos than you think you should – you can always remove or disable unneeded photos during the model-building process
