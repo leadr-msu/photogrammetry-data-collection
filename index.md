@@ -31,6 +31,8 @@ Photos used in photogrammetry must be taken in a specific way and must meet a ce
 * This ties back in to the number of photos – having a portion of the object in only one image does not mean that it will get built into the model
   * Multiple shots of the object from multiple angles will increase the likelihood of getting a better model
   * When in doubt, take more photos than you think you should – you can always remove or disable unneeded photos during the model-building process
+  
+<img src="img/img1.png" width="100%"> 
 
 **Photograph overlap** - photos taken in sequence should overlap by at least 60% - if there is insufficient overlap, the model will not build correctly or at all (see both the above and below illustrations)
 * Photo overlap is needed since photogrammetry software builds models based on points that if finds in multiple photos
