@@ -7,12 +7,12 @@ Created by Jack Biggs
 
 ## What is photogrammetry?
 * Data capture is relatively easy and cheap given the right circumstances
-** Processing software is not usually free but is readily available in the DHI Lab for any Anthropology Dept. faculty, graduate student, or undergrad
+  * Processing software is not usually free but is readily available in the DHI Lab for any Anthropology Dept. faculty, graduate student, or undergrad
 * Digital preservation/curation of fragile materials that may disappear or break down over time
 * Scaled photogrammetric models can be exported in a number of file types and loaded into different modeling or statistical software for quantitative analyses 
-** Ability to have data easily available without having the object right in front of you
+  * Ability to have data easily available without having the object right in front of you
 * Creates a more interactive and tangible experience with an object compared to just an image
-** Easily share models and embed them into presentations
+  * Easily share models and embed them into presentations
 
 ## What are the data used in photogrammetry?
 * Contrary to what you might think, the 3D models are not the actual data, but the visualizations of the data
