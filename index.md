@@ -39,10 +39,9 @@ Photos used in photogrammetry must be taken in a specific way and must meet a ce
   * This ensures that the software can identify those points in common and align them
 
 <img src="img/img2.png" width="70%">
+
 Frame 1 - solid line (assume all are at same height)
-
 Frame 2 - dashed line
-
 Frame 3 - dotted line
 
 **Passes or rotations of photos** – to get the best models more than one rotation or pass of photos around the object is required
