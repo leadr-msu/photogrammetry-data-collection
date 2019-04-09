@@ -43,7 +43,8 @@ Photos used in photogrammetry must be taken in a specific way and must meet a ce
 * Rotations/passes allow for modeling software to interpret parts of an object that might be obscured in one rotation but not in another
 * Separate rotations should be taken at different angles in relation to the object
   * Usually three is enough: one pass at or near eye-level with the object, one pass near 45°, and one pass at a steep angle (60°-70°)
-  * A fourth pass is sometimes required – most useful when photographing objects with a visible interior that might not be adequately captured with three rotations/passes - should be taken almost at a top-down view
+  * A fourth pass is sometimes required – most useful when photographing objects with a visible interior that might not be adequately captured with three rotations/passes
+    * This rotation should be taken almost at a top-down view
 
 **Adequate and appropriate lighting** – for the best photo and model results, lighting is extremely important
 * If the object is too dark, the software may not be able to differentiate separate images and fail to build the model
@@ -106,7 +107,7 @@ Placing tick-marks along the sides of the turntable allows you to have very cons
 * Light from the built-in flash is very bright and harsh
   * It overpowers most of the lights in a lighting setup and can result in the object being over-lit on areas closest to the camera and darkened areas farthest away from the camera 
   * Shifting shadows both on or around the object can also appear due to the built-in flash
-  * These shifting shadows will cause build or alignment failures in the photogrammetry software
+    * These shifting shadows will cause build or alignment failures in the photogrammetry software
 
   
 -----
