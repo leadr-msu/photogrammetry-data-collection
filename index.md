@@ -14,6 +14,18 @@ Created by Jack Biggs
 * Creates a more interactive and tangible experience with an object compared to just an image
 ** Easily share models and embed them into presentations
 
+## What are the data used in photogrammetry?
+* Contrary to what you might think, the 3D models are not the actual data, but the visualizations of the data
+* The images you capture are the true data in photogrammetry and must be treated as such
+** Models are likely to be less accurate if the lighting and background setup and camera settings are not considered
+** The images are analogous to the rows, columns, or even individual cells in a spreadsheet of data – missing or miscalculated values can result in an inaccurate or skewed representation or analysis of those data
+
+## Collecting the data (taking the photos)
+Photos used in photogrammetry must be taken in a specific way and must meet a certain set of criteria:
+_The number of photos_ – there is no set number of photos required to create an accurate 3D model
+The number of photos will change depending on the size, shape, scale, and type of object you’ll be shooting
+More than required is better than not enough – you can always disable or not use some images in the model-making process 
+
 
 On the dashboard, there is a navigation bar on the left and the main work area on the right.  "Manage Resources" provides links and summary accounts for Items, Item Sets, Vocabularies, and Resource Templates. "Manage Sites" lists all sites within the Omeka S installation.  Clicking on the name of a site will direct users to the public view, while clicking on the edit button (pencil icon) will direct users to the editing base.  
 
