@@ -58,6 +58,7 @@ Photos used in photogrammetry must be taken in a specific way and must meet a ce
   * A few shadows won’t ruin the entire model or batch of photos so don’t worry if a few are unavoidable!
 
 **Monopods vs tripods** – deciding to use a monopod vs a tripod for photo capture depends partly on personal preference and partly on what and how you’re shooting – these also slightly affect how the model is processed in the Agisoft program
+
 Monopods
 * Good for well-lit areas with lots of space to move around
  * Good lighting = a shorter shutter speed – this means that slight movements will have less or no effect on the photograph
@@ -74,7 +75,7 @@ Tripods
 * For a 12-inch diameter turntable, 20 photos create enough overlap between photos to create an accurate model that usually builds
 Placing tick-marks along the sides of the turntable allows you to have very consistent rotations and space between images
 
-##Camera Settings
+## Camera Settings
 
 **Focusing the camera**
 * Do not use the automatic focus setting! – as tempting as it is, using automatic focus creates greater inaccuracy in the images
@@ -91,13 +92,16 @@ Placing tick-marks along the sides of the turntable allows you to have very cons
 * Lenses that zoom can create images that photogrammetry software cannot interpret
  * Photogrammetry software needs all the photos to be taken at a consistent scale
 * Changing the zoom level between photos or having the different passes set to different zoom levels messes with the scale across the full set of pictures that the software needs 
+
 **Shoot images in both RAW and JPEG (or PNG)** – RAW files can be thought of as “digital negatives” – they cannot be used directly as an image, but they hold all the data to make an image
 * RAW files do not degrade over time since they are the original data for an image
 * JPEGs degrade over time if they are opened, edited, and then saved – every edit further degrades the photos (similar to making a copy of a copy)
  * If you forget to take RAW files, be sure to convert save a copy of the JPEGs to TIFF – these are better for archival purposes and for online images and publications
 * Photogrammetry software uses JPEGs, but taking the raw images as well will ensure that you have the pure files to convert to the JPEG or PNG format and manipulate without worrying about decreasing the quality of the image or making edits that you cannot undo
+
 **Use a remote** – using a wireless or wired remote to take the photos is easier and it reduces the amount of shaking caused by pressing the capture button
 * This is especially important when using a dark background which requires a much slower shutter speed
+
 **Avoid the built-in camera flash** – make sure to turn off this feature and only rely on the lighting setup you constructed
 * Light from the built-in flash is very bright and harsh
  * It overpowers most of the lights in a lighting setup and can result in the object being over-lit on areas closest to the camera and darkened areas farthest away from the camera 
