@@ -63,6 +63,8 @@ Frame 3 - dotted line
   * Diffusers spread the light out so that the beams are neither too focused nor too harsh – larger areas are hit with softer light
 * Depending on the setup available, 4-point lighting is usually ideal
   * 2 lights on either side of the object and 2 on either side of the camera
+  
+  <img src="img/img5.png" width="70%">
  
 **Minimize shadows** – shadows on the object can create permanent dark spots on the model if they are most of the photos
 * If using a turntable to rotate the object, failing to remove shadows can ‘confuse’ the software
@@ -98,6 +100,8 @@ Tripods
   * i.e. a larger f-stop value will result in more, if not all of the object being in focus at the same time which leads to more accurate and crisper models
 * If an entire object cannot be in focus at once, manually focus on an area that is equidistant from the front and back of the object in that frame
   * i.e. do not focus on the area of the object that is closest to the camera as this will make the farthest portion of the object be much more out of focus
+  
+  <img src="img/img6.png" width="70%">
 
 **Use a fixed lens** – avoid using a lens that has a zooming function
 * Lenses that zoom can create images that photogrammetry software cannot interpret
