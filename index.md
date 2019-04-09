@@ -41,7 +41,9 @@ Photos used in photogrammetry must be taken in a specific way and must meet a ce
 <img src="img/img2.png" width="70%">
 
 Frame 1 - solid line (assume all are at same height)
+
 Frame 2 - dashed line
+
 Frame 3 - dotted line
 
 **Passes or rotations of photos** – to get the best models more than one rotation or pass of photos around the object is required
@@ -50,6 +52,10 @@ Frame 3 - dotted line
   * Usually three is enough: one pass at or near eye-level with the object, one pass near 45°, and one pass at a steep angle (60°-70°)
   * A fourth pass is sometimes required – most useful when photographing objects with a visible interior that might not be adequately captured with three rotations/passes
     * This rotation should be taken almost at a top-down view
+    
+    <img src="img/img3.png" width="70%">
+    
+    <img src="img/img4.png" width="70%">
 
 **Adequate and appropriate lighting** – for the best photo and model results, lighting is extremely important
 * If the object is too dark, the software may not be able to differentiate separate images and fail to build the model
