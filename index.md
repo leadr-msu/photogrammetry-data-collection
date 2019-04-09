@@ -22,8 +22,11 @@ Created by Jack Biggs
 
 ## Collecting the data (taking the photos)
 Photos used in photogrammetry must be taken in a specific way and must meet a certain set of criteria:
-_The number of photos_ – there is no set number of photos required to create an accurate 3D model
+
+__The number of photos__ – there is no set number of photos required to create an accurate 3D model
+
 The number of photos will change depending on the size, shape, scale, and type of object you’ll be shooting
+
 More than required is better than not enough – you can always disable or not use some images in the model-making process 
 
 
