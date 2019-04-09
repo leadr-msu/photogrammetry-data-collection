@@ -32,12 +32,16 @@ Photos used in photogrammetry must be taken in a specific way and must meet a ce
   * Multiple shots of the object from multiple angles will increase the likelihood of getting a better model
   * When in doubt, take more photos than you think you should – you can always remove or disable unneeded photos during the model-building process
 
-![Camera positioning]<img src="img/img1.png" width="70%">
-<img src="img/img1.png" width="70%"> 
+<img src="img/img1.png" width="70%">
 
 **Photograph overlap** - photos taken in sequence should overlap by at least 60% - if there is insufficient overlap, the model will not build correctly or at all (see both the above and below illustrations)
 * Photo overlap is needed since photogrammetry software builds models based on points that if finds in multiple photos
   * This ensures that the software can identify those points in common and align them
+
+<img src="img/img1.png" width="70%">
+Frame 1 - solid line (assume all are at same height)
+Frame 2 - dashed line
+Frame 3 - dotted line
 
 **Passes or rotations of photos** – to get the best models more than one rotation or pass of photos around the object is required
 * Rotations/passes allow for modeling software to interpret parts of an object that might be obscured in one rotation but not in another
