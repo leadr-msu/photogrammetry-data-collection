@@ -67,7 +67,7 @@ Monopods
 Tripods
 * Best when the object is placed on a turntable and rotated for each photograph
 * Better for when backgrounds are darker (black backdrops) and the camera requires a slower shutter speed in order to take in more light with the amount of dark background
- * Prevents blurriness
+  * Prevents blurriness
 
 **Using a turntable** – turntables can create stability when taking pictures and are especially useful when a backdrop is present
 * If the object does not fit on a turntable then a turntable may not be the best option
