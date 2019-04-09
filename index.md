@@ -17,8 +17,8 @@ Created by Jack Biggs
 ## What are the data used in photogrammetry?
 * Contrary to what you might think, the 3D models are not the actual data, but the visualizations of the data
 * The images you capture are the true data in photogrammetry and must be treated as such
- * Models are likely to be less accurate if the lighting and background setup and camera settings are not considered
- * The images are analogous to the rows, columns, or even individual cells in a spreadsheet of data – missing or miscalculated values can result in an inaccurate or skewed representation or analysis of those data
+  * Models are likely to be less accurate if the lighting and background setup and camera settings are not considered
+  * The images are analogous to the rows, columns, or even individual cells in a spreadsheet of data – missing or miscalculated values can result in an inaccurate or skewed representation or analysis of those data
 
 ## Collecting the data (taking the photos)
 Photos used in photogrammetry must be taken in a specific way and must meet a certain set of criteria:
