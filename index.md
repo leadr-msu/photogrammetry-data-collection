@@ -1,5 +1,5 @@
 # Photogrammetry - Data Collection Tutorial
-Created by Jack Biggs
+Created by Jack A. Biggs
 
 ## What is photogrammetry?
 * At its simplest, photogrammetry is the creation of a 3D model in digital space from multiple photographs of an object, interior or exterior space, or person
