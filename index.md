@@ -2,8 +2,8 @@
 Created by Jack Biggs
 
 ## What is photogrammetry?
-*At its simplest, photogrammetry is the creation of a 3D model in digital space from multiple photographs of an object, interior or exterior space, or person
-*Photogrammetric software takes these images and stitches them together to create a model that replicates the subject’s shape, color, and texture
+* At its simplest, photogrammetry is the creation of a 3D model in digital space from multiple photographs of an object, interior or exterior space, or person
+* Photogrammetric software takes these images and stitches them together to create a model that replicates the subject’s shape, color, and texture
 
 On the dashboard, there is a navigation bar on the left and the main work area on the right.  "Manage Resources" provides links and summary accounts for Items, Item Sets, Vocabularies, and Resource Templates. "Manage Sites" lists all sites within the Omeka S installation.  Clicking on the name of a site will direct users to the public view, while clicking on the edit button (pencil icon) will direct users to the editing base.  
 
